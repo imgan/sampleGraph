@@ -1,8 +1,10 @@
 # Graph Sample Project 
 Framework Codeigniter 3
 Php
-Mysql
-//Controllers -> modul_kasir -> Dashboard.php
+Mysql<br>
+
+//Controllers -> modul_kasir -> Dashboard.php<br>
+
 How to run:
 1. Put on htdocs folder's <br>
 2. make sure your apache services runing <br>
