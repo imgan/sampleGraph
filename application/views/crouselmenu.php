@@ -114,58 +114,13 @@
         <div class="page-content vertical-align-middle animation-slide-top animation-duration-1">
             <div class="dock">
                 <div class="dock-container">
-                    <figure id="weather" name="operator">
-                        <a style="color:#333" class="dock-item" href="<?php echo base_url() ?>dashboard" target="operator">
-                            <div class="temp"><img src="<?php echo base_url() ?>global/images/operator.png" width="70" height="70"/></div>
-                            <figcaption>Operator</figcaption>
-                    </figure>
                     <figure id="weather" name="kasir">
                         <a style="color:#333" class="dock-item" href="<?php echo base_url() ?>modulkasir/dashboard" target="kasir">
                             <div class="temp"><img src="<?php echo base_url() ?>global/images/kasir.png" width="70" height="70"/></div>
                             <figcaption>Kasir</figcaption>
                     </figure>
-                    <figure id="weather" name="akunting">
-                        <a style="color:#333" class="dock-item" href="<?php echo base_url() ?>modulakunting/dashboard" target="akunting">
-                            <div class="temp"><img src="<?php echo base_url() ?>global/images/akunting.png" width="70" height="70"/></div>
-                            <figcaption>Akunting</figcaption>
-                    </figure>
-                    <figure id="weather" name="akunting">
-                        <a style="color:#333" class="dock-item" href="<?php echo base_url() ?>modulguru/dashboard" target="akunting">
-                            <div class="temp"><img src="<?php echo base_url() ?>global/images/teacher.png" width="70" height="70"/></div>
-                            <figcaption>Guru</figcaption>
-                    </figure>
-                    <figure id="weather" name="akunting">
-                        <a style="color:#333" class="dock-item" href="<?php echo base_url() ?>modulsiswa/dashboard" target="akunting">
-                            <div class="temp"><img src="<?php echo base_url() ?>global/images/group.png" width="70" height="70"/></div>
-                            <figcaption>Siswa</figcaption>
-                    </figure>
-                    <figure id="weather" name="payroll">
-                        <a style="color:#333" class="dock-item" href="<?php echo base_url() ?>modulpayroll/dashboard" target="payroll">
-                            <div class="temp"><img src="<?php echo base_url() ?>global/images/magnifying-glass.png" width="70" height="70"/></div>
-                            <figcaption>Payroll</figcaption>
-                    </figure>
-                    <!-- <a class="dock-item" href="<?php echo base_url() ?>dashboard"><span></span><img src="<?php echo base_url() ?>global/images/operator1.png" width="128" height="128" alt="contact" /></a>
-                    <a class="dock-item" href="<?php echo base_url() ?>modulkasir/dashboard"><span></span><img src="<?php echo base_url() ?>global/images/kasir1.png" width="128" height="128" alt="contact" /></a>
-                    <a class="dock-item" href="<?php echo base_url() ?>modulakunting/dashboard"><span></span><img src="<?php echo base_url() ?>global/images/akunting.png" width="128" height="128" alt="contact" /></a> -->
-                    <!--<a class="dock-item" href="<?php echo base_url() ?>KOPERASI/"><span></span><img src="<?php echo base_url() ?>global/images/koperasi.png" width="128" height="128" alt="contact" /></a> -->
                 </div>
             </div>
-            <div align="center" class="gambar"><a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>global/images/logo.png" width="200x" /></a></div>
-            <footer class="page-copyright page-copyright-inverse">
-                <p>WEBSITE BY ALPHA</p>
-                <p>© 2020. All RIGHT RESERVED.</p>
-                <!-- <div class="social">
-          <a href="javascript:void(0)">
-            <i class="icon bd-twitter" aria-hidden="true"></i>
-          </a>
-          <a href="javascript:void(0)">
-            <i class="icon bd-facebook" aria-hidden="true"></i>
-          </a>
-          <a href="javascript:void(0)">
-            <i class="icon bd-dribbble" aria-hidden="true"></i>
-          </a>
-        </div> -->
-            </footer>
         </div>
     </div>
     <!-- End Page -->
